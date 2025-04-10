@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\User\\Desktop\\Database_first\\Database_first.csproj",
       "projectName": "Database_first",
       "projectPath": "C:\\Users\\User\\Desktop\\Database_first\\Database_first.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Desktop\\Database_first\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Dapper\\Dapper.csproj",
+      "projectName": "Dapper",
+      "projectPath": "C:\\Users\\User\\Desktop\\Dapper\\Dapper.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Dapper\\obj\\",
+>>>>>>> 7f72fab8e5ce4a1291c6173b3cd3bd9556cdbecb
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
